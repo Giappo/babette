@@ -7,7 +7,7 @@
 #' phylogenies and parameter estimates is generated.
 #'
 #' @seealso
-#' These are packages associated with 'beautier':
+#' These are packages associated with 'babette':
 #' \itemize{
 #'   \item{
 #'     The package 'beautier' can create
